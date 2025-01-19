@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Button from "../common/Button";
+import Button from "../Button";
 
 const Header: React.FC = () => {
   return (
